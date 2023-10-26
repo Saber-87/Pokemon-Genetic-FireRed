@@ -1349,6 +1349,7 @@ const u8 gText_APsychicMove[] = _("a PSYCHIC move");
 const u8 gText_AnIceMove[] = _("an ICE move");
 const u8 gText_ADragonMove[] = _("a DRAGON move");
 const u8 gText_ADarkMove[] = _("a DARK move");
+const u8 gText_AFairyMove[] = _("a FAIRY move");
 const u8 gText_TimeBoard[] = _("TIME BOARD");
 const u8 gText_ClearTime[] = _("CLEAR TIME"); // Unused
 const u8 gText_XMinYZSec[] = _("{STR_VAR_1}MIN. {STR_VAR_2}.{STR_VAR_3}SEC.");

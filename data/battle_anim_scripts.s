@@ -375,6 +375,7 @@ gBattleAnims_Moves::
 	.4byte Move_WATER_PULSE
 	.4byte Move_DOOM_DESIRE
 	.4byte Move_PSYCHO_BOOST
+	.4byte Move_DISARM_VOICE
 	.4byte Move_COUNT @ cannot be reached, because last move is Psycho Boost
 
 	.align 2
@@ -11096,4 +11097,13 @@ Special_SubstituteToMon:
 
 Special_MonToSubstitute:
 	createvisualtask AnimTask_SwapMonSpriteToFromSubstitute, 2, FALSE
+	end
+
+Move_DISARM_VOICE:
+	loadspritegfx ANIM_TAG_THIN_RING
+	call HyperVoiceEffect
+	waitforvisualfinish
+	delay 8
+	call HyperVoiceEffect
+	waitforvisualfinish
 	end
