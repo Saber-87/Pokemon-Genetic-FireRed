@@ -1,32 +1,32 @@
-Route21_North_Text_RonaldIntro::
+Route21_North_Text_RonaldIntro:: @ 818835A
 	.string "You want to know if the fish are\n"
 	.string "biting?$"
 
-Route21_North_Text_RonaldDefeat::
+Route21_North_Text_RonaldDefeat:: @ 8188383
 	.string "Dang!$"
 
-Route21_North_Text_RonaldPostBattle::
+Route21_North_Text_RonaldPostBattle:: @ 8188389
 	.string "I can't catch anything good.\n"
-	.string "Not one good POKéMON to be had!$"
+	.string "Not one good Pokémon to be had!$"
 
-Route21_North_Text_WadeIntro::
+Route21_North_Text_WadeIntro:: @ 81883C6
 	.string "I got a big haul!\n"
 	.string "Wanna go for it?$"
 
-Route21_North_Text_WadeDefeat::
-	.string "Heheh, MAGIKARP just don't make\n"
+Route21_North_Text_WadeDefeat:: @ 81883E9
+	.string "Heheh, Magikarp just don't make\n"
 	.string "the grade, do they?$"
 
-Route21_North_Text_WadePostBattle::
-	.string "I seem to only catch MAGIKARP!$"
+Route21_North_Text_WadePostBattle:: @ 818841D
+	.string "I seem to only catch Magikarp!$"
 
-Route21_North_Text_SpencerIntro::
+Route21_North_Text_SpencerIntro:: @ 818843C
 	.string "The sea cleanses my body and soul!$"
 
-Route21_North_Text_SpencerDefeat::
+Route21_North_Text_SpencerDefeat:: @ 818845F
 	.string "Ayah!$"
 
-Route21_North_Text_SpencerPostBattle::
+Route21_North_Text_SpencerPostBattle:: @ 8188465
 	.string "The sea is great and all, but I\n"
 	.string "like the mountains, too.$"
 
@@ -36,15 +36,15 @@ Route21_North_Text_SpencerPostBattle::
 @ English translations from RB are listed
 
 @ "What's wrong with me swimming?"
-Route21_North_Text_CueBallIntro::
+Route21_North_Text_CueBallIntro:: @ 818849E
 	.string "おれだって　たまには\n"
 	.string "およぎに　くるぜ！$"
 
 @ "Cheap shot!"
-Route21_North_Text_CueBallDefeat::
+Route21_North_Text_CueBallDefeat:: @ 81884B3
 	.string "ぐわわ！$"
 
 @ "I look like what? A studded inner tube? Get lost!"
-Route21_North_Text_CueBallPostBattle::
+Route21_North_Text_CueBallPostBattle:: @ 81884B8
 	.string "うきやすそう　だと？\n"
 	.string "うるせー　おおきな　おせわだッ！$"
